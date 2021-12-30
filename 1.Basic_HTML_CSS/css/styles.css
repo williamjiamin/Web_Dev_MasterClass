@@ -1,0 +1,38 @@
+
+/****************** using the tag selectors ********************/
+  body {
+    /* background-color: #FCFFFC */
+    background-color: lightgrey
+  }
+
+  hr {
+    border-style: none;
+    border-color: black;
+    border-width: medium;
+    border-top-style: dotted;
+  }
+
+  /* img {
+      border-radius: 20px;
+  } */
+
+
+  /******************** using the class selectors ***************/
+
+  .retro-apple {
+    border-radius: 50px;
+  }
+
+  .retro-ibm {
+    opacity: 0.5;
+  }
+
+  .fire {
+    background-color: red;
+  }
+
+  /******************** using the ID selectors ********************/
+
+  #special-apple {
+    border-radius: 10px;
+  }
