@@ -3,12 +3,14 @@ body {
     color: springgreen;
     text-align: center;
     font-family: 'Courier New', monospace;
+    padding: 0;
 
 }
 
 .this-is-div-1 {
     height: 600px;
     background-color: black;
+    position: relative;
 }
 
 .this-is-div-2 {
@@ -32,4 +34,16 @@ h1 {
 
 body {
     margin: 50px;
+}
+
+.guitar {
+    position: relative;
+    bottom: 250px;
+    left: 50px;
+}
+
+.spaceship {
+    position: relative;
+    bottom: 250px;
+    right: 50px;
 }
