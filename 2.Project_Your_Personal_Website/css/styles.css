@@ -8,18 +8,18 @@ body {
 }
 
 .this-is-div-1 {
-    height: 600px;
+    height: 850px;
     background-color: black;
     position: relative;
 }
 
 .this-is-div-2 {
-    height: 600px;
+    height: 850px;
     background-color: black;
 }
 
 .this-is-div-3 {
-    height: 600px;
+    height: 850px;
     background-color: black;
     /*position: absolute;*/
 }
@@ -30,6 +30,12 @@ h1 {
     margin-inline-start: 0;
     margin-inline-end: 0;
     font-weight: bold;
+}
+
+.title {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 5em;
+    padding: 10px;
 }
 
 body {
