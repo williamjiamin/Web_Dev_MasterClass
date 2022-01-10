@@ -16,6 +16,9 @@ body {
 .this-is-div-2 {
     height: 850px;
     background-color: black;
+    position: relative;
+    top: 50px;
+    text-align: left;
 }
 
 .this-is-div-3 {
@@ -36,6 +39,7 @@ h1 {
     font-family: Copperplate, Papyrus, fantasy;
     font-size: 5em;
     padding: 10px;
+    text-align: center;
 }
 
 body {
@@ -52,4 +56,16 @@ body {
     position: relative;
     bottom: 250px;
     right: 50px;
+}
+
+.computer_img {
+    float: right;
+}
+
+.music_img {
+    float: left;
+}
+
+.painting_img {
+    float: right;
 }
